@@ -1,4 +1,4 @@
-package org.ivanina.dev.shdt;
+package org.ivanina.dev.shdt.base;
 
 public class CurrentThreadDemo {
     public static void main(String arg[]){
