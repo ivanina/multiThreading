@@ -1,4 +1,4 @@
-package org.ivanina.dev.shdt.lambda;
+package org.ivanina.dev.shdt.lambda.base;
 
 import java.util.IllegalFormatException;
 

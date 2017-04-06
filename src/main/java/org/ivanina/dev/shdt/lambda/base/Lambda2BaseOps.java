@@ -1,4 +1,4 @@
-package org.ivanina.dev.shdt.lambda;
+package org.ivanina.dev.shdt.lambda.base;
 
 public class Lambda2BaseOps {
     static String strReverse(String str){
@@ -11,5 +11,9 @@ public class Lambda2BaseOps {
 
     static String strUp(String str){
         return str.toUpperCase();
+    }
+
+    String strReverse2(String str){
+        return new StringBuffer(str).reverse().toString();
     }
 }
