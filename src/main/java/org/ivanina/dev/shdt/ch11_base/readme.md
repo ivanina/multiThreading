@@ -18,5 +18,5 @@ For second thread use join.
 
 -[x] Check call synchronised method from other synchronized method on the same object
 
--[ ] Implement suspend and resume
+-[x] Implement suspend and resume
 
