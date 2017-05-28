@@ -1,6 +1,5 @@
 package org.ivanina.dev.shdt.ch28_synchronizers;
 
-import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;
 
 public class CyclicBarrierMain {

@@ -12,7 +12,8 @@
 -[x] CyclicBarrier
     - Preparation of three artillery units with simultaneous fire
 
--[ ] Exchanger
+-[x] Exchanger
     - Buffering and formatting a string.
 
 -[ ] Phaser (!?)
+    - simple 3 phases

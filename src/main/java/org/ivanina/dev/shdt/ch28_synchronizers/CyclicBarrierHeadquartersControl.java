@@ -1,11 +1,7 @@
 package org.ivanina.dev.shdt.ch28_synchronizers;
 
-import java.util.ArrayList;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
-
-import static java.util.stream.Collectors.toList;
 
 public class CyclicBarrierHeadquartersControl implements Runnable {
     private Set<CyclicBarrierArtillery> artillery = new HashSet<>();

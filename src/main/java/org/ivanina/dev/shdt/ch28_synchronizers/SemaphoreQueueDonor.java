@@ -1,7 +1,5 @@
 package org.ivanina.dev.shdt.ch28_synchronizers;
 
-import java.util.concurrent.Semaphore;
-
 public class SemaphoreQueueDonor implements Runnable {
     private SemaphoreQueue queue;
 
